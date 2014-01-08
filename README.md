@@ -9,14 +9,14 @@ Propuesta para el nuevo diseño de CodeJobs 100% adaptable y funcional en todas 
 
 ### Aplicación: Codejobs Design v1.0 - By: Michael Serrato (Propuesta).
 
-Asunto: Rediseño Codejobs - Maqueta Final [HTML y CSS] - By Michael Serrato.
-Importante: PROPUESTA PARA EL CONCURSO DE REDISEÑO DE CODEJOBS - Codejobs - http://www.codejobs.biz/
-Frameworks utilizados: Twitter Bootstrap (v2.3.0) y jQuery (v1.9.1)
+- Asunto: Rediseño Codejobs - Maqueta Final [HTML y CSS] - By Michael Serrato
+- Importante: PROPUESTA PARA EL CONCURSO DE REDISEÑO DE CODEJOBS - Codejobs - http://www.codejobs.biz/
+- Frameworks utilizados: Twitter Bootstrap (v2.3.0) y jQuery (v1.9.1)
 
-AUTOR: Michael Serrato.
+- AUTOR: Michael Serrato.
 
-Correo Electrónico: mikebsg01@gmail.com
-Twitter: @mikebsg01
+- Correo Electrónico: mikebsg01@gmail.com
+- Twitter: @mikebsg01
 
 ---
 
@@ -24,3 +24,4 @@ Twitter: @mikebsg01
 
 
  
+
